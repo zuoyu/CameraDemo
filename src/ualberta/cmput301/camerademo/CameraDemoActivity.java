@@ -40,11 +40,11 @@ public class CameraDemoActivity extends Activity {
 	// finishes, while startActivityForResult() method will. To retrieve the returned result, you may 
 	// need implement onAcitityResult() method.
 	public void takeAPhoto() {
-		
+		// To Do		
 	}
 	
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-
+		// To Do
 	}	
 	
 	@Override
