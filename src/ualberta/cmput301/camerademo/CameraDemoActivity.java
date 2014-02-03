@@ -43,7 +43,9 @@ public class CameraDemoActivity extends Activity {
 		
 	}
 	
-	
+	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+	}	
 	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
